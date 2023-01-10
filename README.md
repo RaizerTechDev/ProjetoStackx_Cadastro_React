@@ -4,8 +4,7 @@
 
 # <img src="https://media.giphy.com/media/XwcRflO9HD0Sk6RaRM/giphy.gif" align="center" height="25" width="55"> Venho aqui apresentar <img src="https://media.giphy.com/media/LmqitTYGsNMiWu3VWO/giphy.gif" align="center" width="65">
 
-# <div align="center"> ProjetoStackx_Cadastro_React
-
+# <div align="center"> PROJETO STACKX-LISTA DE CADASTRO 
 <br>
 
 ## <div align="center">[Clique aqui para acessar o Projeto](https://rafaraz76dev-stackxcadastro-react.netlify.app/)
