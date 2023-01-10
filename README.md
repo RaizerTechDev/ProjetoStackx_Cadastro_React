@@ -10,13 +10,7 @@
 
 <br>
 
-### <div align="center">[Clique aqui para acessar o Projeto](https://rafarz76dev-desafiostackx-web30-react.netlify.app/)
-
----
-
-   <img src="ProjetoWeb3.0 React.png" align="center" height="500em" width="100%" href="https://rafarz76dev-desafiostackx-web30-react.netlify.app">
-
----
+## <div align="center">[Clique aqui para acessar o Projeto](https://rafarz76dev-desafiostackx-web30-react.netlify.app/)
 
 <div align="center">
 <img width="1212" alt="Screen Shot 2022-07-21 at 22 39 08" src="https://user-images.githubusercontent.com/57332512/183978135-6d14a825-b837-4305-9a47-065ce76a020c.png">
