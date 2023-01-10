@@ -6,9 +6,9 @@
 
 ---
 
-# Projeto*React_Lista_Cadastro*
+# <div align="center"> ProjetoStackx_Cadastro_React
 
-<<br>
+<br>
 
 ### <div align="center">[Clique aqui para acessar o Projeto](https://rafarz76dev-desafiostackx-web30-react.netlify.app/)
 
@@ -87,11 +87,7 @@
 <br />
 
 ---
-
----
-
 [ts]: https://www.typescriptlang.org
 
 ---
-
 [documentação react]: https://pt-br.reactjs.org/docs/getting-started.html.
