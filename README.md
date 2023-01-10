@@ -4,14 +4,11 @@
 
 # <img src="https://media.giphy.com/media/XwcRflO9HD0Sk6RaRM/giphy.gif" align="center" height="25" width="55"> Venho aqui apresentar <img src="https://media.giphy.com/media/LmqitTYGsNMiWu3VWO/giphy.gif" align="center" width="65">
 
----
-
 # <div align="center"> ProjetoStackx_Cadastro_React
 
 <br>
 
 ## <div align="center">[Clique aqui para acessar o Projeto](https://rafaraz76dev-stackxcadastro-react.netlify.app/)
-
 <div align="center">
 <img width="1212" alt="Screen Shot 2022-07-21 at 22 39 08" src="Projeto_React_ListaCadastro_Stack.png">
  </div>
@@ -77,6 +74,11 @@
 - [Whatsapp](https://api.whatsapp.com/send/?phone=47999327137)
 - [Telegram](https://t.me/RafaRaizer76)
 - [Gmail](mailto:rafaelraizer76@gmail.com)
+
+***
+### ▶ 😀👀 Bora lá....
+
+### Gostou, então já clica na 🌟
 
 <br />
 
